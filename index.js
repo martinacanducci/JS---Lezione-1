@@ -231,6 +231,6 @@ const appDiv = document.getElementById('app');
 
 // Modifica l'elemento selezionato 
 appDiv.innerHTML = "Il valore è:" + verif;
-
+ 
 
 
